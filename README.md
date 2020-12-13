@@ -12,5 +12,5 @@ A red dot means that you have included a correct color AND that you got its posi
 None of the dots indicate which entry of the sequence it refers to. Enjoy!
 
 <p align="center">
-  ![pic](https://github.com/joakimak/Mastermind/blob/main/mastermind.png)
+  <img src="https://github.com/joakimak/Mastermind/blob/main/mastermind.png">
 </p>
