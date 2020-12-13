@@ -11,4 +11,6 @@ A white dot means that you have included a correct color, but that the color is 
 A red dot means that you have included a correct color AND that you got its position right.
 None of the dots indicate which entry of the sequence it refers to. Enjoy!
 
-![pic](https://github.com/joakimak/Mastermind/blob/main/mastermind.png)
+<p align="center">
+  ![pic](https://github.com/joakimak/Mastermind/blob/main/mastermind.png)
+</p>
