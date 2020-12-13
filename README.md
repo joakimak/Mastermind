@@ -9,6 +9,6 @@ Use either the mouse buttons or the scroll wheel to select a color sequence and 
 The computer will give you feedback in the form of white and red dots. 
 A white dot means that you have included a correct color, but that the color is in the incorrect position.
 A red dot means that you have included a correct color AND that you got its position right.
-None of the dots indicate which entry of the sequence it refers to.
+None of the dots indicate which entry of the sequence it refers to. Enjoy!
 
 ![pic](https://github.com/joakimak/Mastermind/blob/main/mastermind.png)
