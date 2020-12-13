@@ -1,3 +1,3 @@
 # Mastermind
 
-![pic](https://github.com/joakimak/Mastermind/blob/master/mastermind.png)
+![pic](https://github.com/joakimak/Mastermind/blob/main/mastermind.png)
